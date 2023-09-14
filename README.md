@@ -16,6 +16,6 @@
 <br/>
 
 
-[Twitter]: https://twitter.com/anyn_name
+[Twitter]: https://twitter.com/kumar_mks23
 [LinkedIn]: https://www.linkedin.com/in/mohan-kumar-aa4b201ab/
 [codepen]: https://codepen.io/neon010
