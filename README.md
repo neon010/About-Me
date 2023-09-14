@@ -16,12 +16,6 @@
 <br/>
 
 
-<img align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=neon010&show_icons=true&theme=radical">
-
-
-
-
-
 [Twitter]: https://twitter.com/anyn_name
 [LinkedIn]: https://www.linkedin.com/in/mohan-kumar-aa4b201ab/
 [codepen]: https://codepen.io/neon010
