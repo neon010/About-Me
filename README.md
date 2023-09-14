@@ -7,9 +7,9 @@
 
 ## Connect with me:
 
-[<img align="left" background="blue" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][Twitter]
-[<img align="left" background="blue"  alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][LinkedIn]
-[<img align="left" background="blue" alt="codepen" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg">][codepen]
+[<img align="left" background="white" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][Twitter]
+[<img align="left" background="white"  alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][LinkedIn]
+[<img align="left" background="white" alt="codepen" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg">][codepen]
 
 
 <br/>
