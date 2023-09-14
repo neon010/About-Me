@@ -1,6 +1,6 @@
 ## Hello there 👋! I'm Mohan Kumar
 
-### I am Mechanical Engineer and full stack developer from delhi, India
+### I am full stack developer from delhi, India
 - I am currently learning coding
 - 2021 Goals: Contribute more to Open Source projects
 - I’m looking to collaborate with other content creators
